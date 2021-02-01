@@ -3,7 +3,7 @@ Conjugation algorithms in different tenses of French in Java
 
 The code provided here may be useful to anyone who needs an idea of how to conjugate different verbs of the French language at different times.
 
-The times that I have included in the file "AlgoritmoConjugacionFrances.java" are:
+The grammatical times that i have included in the file "AlgoritmoConjugacionFrances.java" are:
 
 - Le conditionnel présent.
 - Le passe compose de l'indicatif.
